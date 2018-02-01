@@ -1,0 +1,12 @@
+{
+  "name": "password-store",
+  "version": "1.0.0",
+  "description": "A password storage app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

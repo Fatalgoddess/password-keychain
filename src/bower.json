@@ -1,0 +1,17 @@
+{
+  "name": "password-store",
+  "description": "A password storage app.",
+  "main": "index.js",
+  "authors": [
+    "Antonia <antonia.ivanova09@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
